@@ -1,4 +1,4 @@
-# work-tracker
+# MetaTracker
 tracks your own meta, including but not limited to : 
 - history of yourself
 - ongoing project
